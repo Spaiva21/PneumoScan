@@ -1,0 +1,2 @@
+# PneumoScan
+Proyecto biomédica
